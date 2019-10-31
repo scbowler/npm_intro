@@ -1,0 +1,26 @@
+{
+  "name": "npm_intro",
+  "version": "1.0.0",
+  "description": "An intorduction to NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scbowler/npm_intro.git"
+  },
+  "author": "Scott Bowler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scbowler/npm_intro/issues"
+  },
+  "homepage": "https://github.com/scbowler/npm_intro#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
