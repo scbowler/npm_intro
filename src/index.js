@@ -16,6 +16,6 @@ addToDom(`9234 + 4521 = ${calc.default(9234, '+', 4521)}`);
 
 addToDom(`123 / 57 = ${calc.divide(123, 57)}`);
 
-addToDom(`123 x 57 = ${calc.multiply(123, 57)}`);
+addToDom(`8 x 512 = ${calc.multiply(8, 512)}`);
 
 $('#root').append('<h1>I was added with jQuery $$</h1>');

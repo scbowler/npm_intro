@@ -112,7 +112,7 @@ Object(_add_to_dom__WEBPACK_IMPORTED_MODULE_0__["default"])(`9234 + 4521 = ${_ca
 
 Object(_add_to_dom__WEBPACK_IMPORTED_MODULE_0__["default"])(`123 / 57 = ${_calc__WEBPACK_IMPORTED_MODULE_1__["divide"](123, 57)}`);
 
-Object(_add_to_dom__WEBPACK_IMPORTED_MODULE_0__["default"])(`123 x 57 = ${_calc__WEBPACK_IMPORTED_MODULE_1__["multiply"](123, 57)}`);
+Object(_add_to_dom__WEBPACK_IMPORTED_MODULE_0__["default"])(`8 x 512 = ${_calc__WEBPACK_IMPORTED_MODULE_1__["multiply"](8, 512)}`);
 
 jquery__WEBPACK_IMPORTED_MODULE_2___default()('#root').append('<h1>I was added with jQuery $$</h1>');
 
