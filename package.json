@@ -19,7 +19,7 @@
   "homepage": "https://github.com/scbowler/npm_intro#readme",
   "devDependencies": {
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "jquery": "^3.4.1"
